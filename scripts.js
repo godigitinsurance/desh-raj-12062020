@@ -9,5 +9,5 @@ $("#registrationNumber").text("PB08BS0277");
 $("#make").text("MARUTI");
 $("#model").text("ALTO K10");
 $("#vehicalSubType").text("LXI");
-$("#engineNo").text("155255");
-$("#chassis").text("592565");
+$("#engineNo").text("K10BN4129929");
+$("#chassis").text("MA3EADEIS00120434");
